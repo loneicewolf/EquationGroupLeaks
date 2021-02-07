@@ -1,6 +1,7 @@
 ###########################################################################
 # FROM https://gist.github.com/botherder/d8dc83c3783c405c4197e4d22974ca70 #
-###########################################################################
+###########################################################################  Slightly modifed to have more files/names. e.g ECELP4 which is also part of DEMENTIAWHEEL (or, fanny.bmp) 
+
 
 "1394ohci","*** SENTRYTRIBE MENTAL ***"
 "ac98intc","*** DARKSKYLINE MENTAL ***"
@@ -13,6 +14,7 @@
 "adpkprp","*** KILLSUIT LOADER DRIVER - REMOVE ME ***"
 "adpu321","*** SIG35 - FOLLOW GUIDANCE ***"
 "adpux86","*** DARKSKYLINE MENTAL ***"
+"ECELP4"*** DEMENTIAWHEEL ***"
 "agentcpd","*** DEMENTIAWHEEL ***"
 "agilevpn","*** ST MENTAL *** -OR- RAS Agile VPN Driver"
 "Agilevpn","*** ST MENTAL *** -OR- RAS Agile VPN Driver"
